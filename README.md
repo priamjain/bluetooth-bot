@@ -3,4 +3,6 @@ Bot Car controlled by l293d motor driver and Arduino Uno with HC06 bluetooth mod
 
 ## Circuit
 ![Image]
-(https://web.whatsapp.com/fe8a40d6-9965-472f-9779-13d75b48f5c0)
+(https://github.com/priamjain/bluetooth-bot/blob/master/d40abd9d-2f46-405d-99bc-5dffa14f5462.jpeg)
+
+
